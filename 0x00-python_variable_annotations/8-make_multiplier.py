@@ -1,4 +1,4 @@
-#!?/usr/bin/env python3
+#!/usr/bin/env python3
 """ Basic annotations - make_multiplier module """
 from typing import Callable
 
